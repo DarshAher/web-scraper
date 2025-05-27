@@ -1,4 +1,4 @@
-# streamlit_app.py
+# app.py
 import time
 import random
 import streamlit as st
