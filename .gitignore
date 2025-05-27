@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# IDE configs
+.idea/
+
+# Output and logs
+output/
+
+# Environment files
+.env
+*.env
+
+# Streamlit cache
+.streamlit/
