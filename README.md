@@ -31,8 +31,9 @@ An advanced and user-friendly Streamlit-based web scraping tool to extract struc
 git clone https://github.com/DarshAher/web-scraper.git
 cd web-scraper
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py```
 
+---
 
 ## ⚠️ Disclaimer
 
