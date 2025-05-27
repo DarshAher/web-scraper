@@ -1,4 +1,4 @@
-# CRAZYAI Universal Web Scraper 🕸️
+# Universal Web Scraper 🕸️
 
 An advanced and user-friendly Streamlit-based web scraping tool to extract structured data from any website using modern AI models like GPT-4o, Gemini, and LLaMA.
 
@@ -8,7 +8,7 @@ An advanced and user-friendly Streamlit-based web scraping tool to extract struc
 
 - 🔗 Scrape any URL
 - 🧠 Auto-detect pagination
-- 📝 Export to `.json`, `.xlsx`, `.csv`
+- 📝 Export to `.json`, `.csv`
 - 🧠 AI-assisted field extraction
 - 🧰 Powered by OpenAI, Google Gemini, and Groq
 
@@ -21,7 +21,7 @@ An advanced and user-friendly Streamlit-based web scraping tool to extract struc
 - `Selenium + BeautifulSoup`
 - `Pandas`, `openpyxl`
 - `openai`, `groq`, `google-generativeai`
-- `.env` for API keys (never pushed)
+- `.env` for API keys 
 
 ---
 
